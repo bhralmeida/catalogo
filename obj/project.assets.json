@@ -12162,11 +12162,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BrunoHenriqueRochade\\source\\repos\\services\\Catalogo\\Catalogo.csproj",
+      "projectUniqueName": "C:\\Work\\Sigma\\sigma-terraform\\apps\\services\\Catalogo\\Catalogo.csproj",
       "projectName": "Catalogo",
-      "projectPath": "C:\\Users\\BrunoHenriqueRochade\\source\\repos\\services\\Catalogo\\Catalogo.csproj",
+      "projectPath": "C:\\Work\\Sigma\\sigma-terraform\\apps\\services\\Catalogo\\Catalogo.csproj",
       "packagesPath": "C:\\Users\\BrunoHenriqueRochade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BrunoHenriqueRochade\\source\\repos\\services\\Catalogo\\obj\\",
+      "outputPath": "C:\\Work\\Sigma\\sigma-terraform\\apps\\services\\Catalogo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BrunoHenriqueRochade\\AppData\\Roaming\\NuGet\\NuGet.Config",
