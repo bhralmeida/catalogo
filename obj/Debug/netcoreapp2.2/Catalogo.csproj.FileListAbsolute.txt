@@ -1,0 +1,16 @@
+C:\Users\BrunoHenriqueRochade\source\repos\services\Catalogo\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\BrunoHenriqueRochade\source\repos\services\Catalogo\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\BrunoHenriqueRochade\source\repos\services\Catalogo\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\BrunoHenriqueRochade\source\repos\services\Catalogo\bin\Debug\netcoreapp2.2\Catalogo.deps.json
+C:\Users\BrunoHenriqueRochade\source\repos\services\Catalogo\bin\Debug\netcoreapp2.2\Catalogo.runtimeconfig.json
+C:\Users\BrunoHenriqueRochade\source\repos\services\Catalogo\bin\Debug\netcoreapp2.2\Catalogo.runtimeconfig.dev.json
+C:\Users\BrunoHenriqueRochade\source\repos\services\Catalogo\bin\Debug\netcoreapp2.2\Catalogo.dll
+C:\Users\BrunoHenriqueRochade\source\repos\services\Catalogo\bin\Debug\netcoreapp2.2\Catalogo.pdb
+C:\Users\BrunoHenriqueRochade\source\repos\services\Catalogo\obj\Debug\netcoreapp2.2\Catalogo.csprojAssemblyReference.cache
+C:\Users\BrunoHenriqueRochade\source\repos\services\Catalogo\obj\Debug\netcoreapp2.2\Catalogo.RazorAssemblyInfo.cache
+C:\Users\BrunoHenriqueRochade\source\repos\services\Catalogo\obj\Debug\netcoreapp2.2\Catalogo.RazorAssemblyInfo.cs
+C:\Users\BrunoHenriqueRochade\source\repos\services\Catalogo\obj\Debug\netcoreapp2.2\Catalogo.AssemblyInfoInputs.cache
+C:\Users\BrunoHenriqueRochade\source\repos\services\Catalogo\obj\Debug\netcoreapp2.2\Catalogo.AssemblyInfo.cs
+C:\Users\BrunoHenriqueRochade\source\repos\services\Catalogo\obj\Debug\netcoreapp2.2\Catalogo.RazorTargetAssemblyInfo.cache
+C:\Users\BrunoHenriqueRochade\source\repos\services\Catalogo\obj\Debug\netcoreapp2.2\Catalogo.dll
+C:\Users\BrunoHenriqueRochade\source\repos\services\Catalogo\obj\Debug\netcoreapp2.2\Catalogo.pdb
