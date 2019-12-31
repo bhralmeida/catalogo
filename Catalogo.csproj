@@ -3,11 +3,17 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <ApplicationIcon />
+    <OutputType>Library</OutputType>
+    <StartupObject />
+    <UserSecretsId>82b02e50-319e-4063-9f7b-9f2cc4ed2954</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.9.10" />
   </ItemGroup>
 
 </Project>
